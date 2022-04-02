@@ -8,6 +8,6 @@
 !module_3/
 
 module_3/files-io/task/
-module_3/files-io/task.data
-module_3/files-io/*.csv
+# module_3/files-io/task.data
+# module_3/files-io/*.csv
 module_3/json-parse/*.json
